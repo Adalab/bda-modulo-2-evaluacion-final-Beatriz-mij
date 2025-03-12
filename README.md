@@ -1,12 +1,12 @@
 
 # EVALUCION FINAL MODULO 2: SQL
 
-Este archivo contiene una serie de consultas SQL para obtener información de la base de datos - Sakila -, que es una base de datos de ejemplo utilizada para prácticas con MySQL. Las consultas están organizadas en función de las tareas solicitadas como se puede observar. 
+Este archivo contiene una serie de consultas SQL para obtener información de la base de datos  "Sakila", que es una base de datos de ejemplo utilizada para prácticas con MySQL. Las consultas están organizadas en función de las tareas solicitadas como se puede observar. 
 
 
 # Consultas SQL para la base de datos Sakila:
 
-- Sakila - es una base de datos que simula la operación de una tienda de alquiler de películas, con tablas que incluyen detalles de las películas, actores, clientes, alquileres, inventario y categorías de películas. Las consultas están diseñadas para cubrir diversas necesidades de análisis e información sobre los datos de dicha base de datos.
+Sakila es una base de datos que simula la operación de una tienda de alquiler de películas, con tablas que incluyen detalles de las películas, actores, clientes, alquileres, inventario y categorías de películas. Las consultas están diseñadas para cubrir diversas necesidades de análisis e información sobre los datos de dicha base de datos.
 
 # Descripción general:
 
